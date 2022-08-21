@@ -38,9 +38,9 @@ baseurl: "/ma" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
-  social_links: www.instagram.com/mmax.wu
-    twitter: fastdotai
-    github: fastai
+  social_links: url: "https://instagram.com/mmax.wu"
+    twitter: 
+    github: waxmoo
 
 # Set this to true to get LaTeX math equation support
 use_math: 
