@@ -1,7 +1,7 @@
 ---
 toc: true
 layout: post
-description: my markdown description
+description: 
 title: Sample Markdown Post
 ---
-# Markdown Posts
+Hi! Welcome to my first markdown post!
