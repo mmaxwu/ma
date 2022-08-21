@@ -38,7 +38,7 @@ baseurl: "/ma" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
-  social_links: "https://instagram.com/mmax.wu"
+  social_links: 
     twitter: 
     github: waxmoo
 
