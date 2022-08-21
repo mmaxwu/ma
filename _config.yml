@@ -7,7 +7,7 @@
 # https://learnxinyminutes.com/docs/yaml/
 
 title: Max Wu
-description: An easy to use blogging platform with support for Jupyter Notebooks.
+description: Max is a student attending Del Norte High school.
 github_username: waxmoo
 # you can comment the below line out if your repo name is not different than your baseurl
 github_repo: "ma"
@@ -38,7 +38,7 @@ baseurl: "/ma" # the subpath of your site, e.g. "/blog".
 
 # Github and twitter are optional:
 minima:
-  social_links:
+  social_links: www.instagram.com/mmax.wu
     twitter: fastdotai
     github: fastai
 
