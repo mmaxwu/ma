@@ -6,14 +6,15 @@ permalink: /about/
 
 Max is a Junior at Del Norte High School.
 
-<p>**You can find him at:** <br>
-- Instagram: [Max Wu](https://www.instagram.com/mmax.wu/) <br>
-- Discord: lil wuzi vert #3917
-</p>
+**You can find him at:**<br>
+<ul>
+    <li>Instagram: [Max Wu](https://www.instagram.com/mmax.wu/)</li>
+    <li>Discord: lil wuzi vert #3917</li>
+</ul>
 
 
 
-![waxmoo minecraft cow](/Users/lixiwu/downloads/minecraftcow.png)
+
 
 
 
