@@ -4,8 +4,16 @@ title: About Me
 permalink: /about/
 ---
 
-This website is powered by **[fastpages](https://github.com/fastai/fastpages)** [^1].
+Max is a Junior at Del Norte High School.
+
+<p>**You can find him at:** <br>
+- Instagram: [Max Wu](https://www.instagram.com/mmax.wu/) <br>
+- Discord: lil wuzi vert #3917
+</p>
 
 
 
-[^1]:a blogging platform that natively supports Jupyter notebooks in addition to other formats.
+![waxmoo minecraft cow](/Users/lixiwu/downloads/minecraftcow.png)
+
+
+
