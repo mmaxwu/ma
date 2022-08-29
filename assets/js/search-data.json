@@ -94,6 +94,14 @@
   
 
   
+      ,"page7": {
+          "title": "About Me",
+          "content": "If statement - If proved true, performs a function . Variable - A value that can change depending on the conditions . Jupyter - Lets you write and run code at the same time .",
+          "url": "https://waxmoo.github.io/ma/vocab/",
+          "relUrl": "/vocab/",
+          "date": ""
+      }
+      
   
 
   
@@ -103,7 +111,10 @@
   
 
   
-      ,"page10": {
+  
+
+  
+      ,"page11": {
           "title": "",
           "content": "Sitemap: {{ “sitemap.xml” | absolute_url }} | .",
           "url": "https://waxmoo.github.io/ma/robots.txt",
