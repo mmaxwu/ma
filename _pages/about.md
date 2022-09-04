@@ -19,3 +19,6 @@ Max is a Junior at Del Norte High School.
 
 ![](https://www.powayusd.com/PUSD/media/DNHS/images/slider/Hi-Res-School-Photo-min.jpg?ext=.jpg)
 
+<p align="center">
+    <img src="https://c.tenor.com/xNKl6BfDVjYAAAAd/skull-skeleton.gif" width="50" height="50" />
+</p>
