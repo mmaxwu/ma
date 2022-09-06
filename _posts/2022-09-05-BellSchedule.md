@@ -29,7 +29,7 @@ categories: [Week 2, jupyter]
 |Period 4    |1:44 PM   |2:42  PM|
 |Period 5    |2:47 PM   |3:45  PM|
 
-# Friday 
+## Friday 
 |Period      |Start Time|End Time|
 |------------|----------|--------|
 |Period 1    |8:35 AM   |9:49  AM|
