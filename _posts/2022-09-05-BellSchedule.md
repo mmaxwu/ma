@@ -2,8 +2,8 @@
 toc: true
 layout: post
 description: 
-title: Sample Markdown Post
-categories: [week 2, jupyter]
+title: DNHS Bell Schedule
+categories: [Week 2, jupyter]
 ---
 
 ## Monday, Tuesday, Thursday

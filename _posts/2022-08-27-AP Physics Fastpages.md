@@ -3,7 +3,7 @@ toc: true
 layout: post
 description: 
 title: AP Physics Fast Page
-categories: [week 1, jupyter]
+categories: [Week 1, jupyter]
 ---
 
 # AP Physics Fast Page
