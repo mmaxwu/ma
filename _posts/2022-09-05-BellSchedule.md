@@ -7,7 +7,7 @@ categories: [Week 2, jupyter]
 ---
 
 ## Monday, Tuesday, Thursday
-|Period  |Start Time|End Time|
+|Period      |Start Time|End Time|
 |------------|----------|--------|
 |Period 1    |8:35 AM   |9:44  AM|
 |Period 2    |9:49 AM   |10:58 AM|
@@ -19,7 +19,7 @@ categories: [Week 2, jupyter]
 |Period 5    |2:36 PM   |3:45  PM|
 
 ## Wednesday (Late Start)
-|Period  |Start Time|End Time|
+|Period      |Start Time|End Time|
 |------------|----------|--------|
 |Period 1    |9:55 AM   |10:53 AM|
 |Period 2    |10:58 AM  |11:56 AM|
@@ -30,7 +30,7 @@ categories: [Week 2, jupyter]
 |Period 5    |2:47 PM   |3:45  PM|
 
 # Friday 
-|Period  |Start Time|End Time|
+|Period      |Start Time|End Time|
 |------------|----------|--------|
 |Period 1    |8:35 AM   |9:49  AM|
 |Period 2    |9:54 AM   |11:08 AM|
