@@ -3,6 +3,7 @@ toc: true
 layout: post
 description: 
 title: AP Physics Fast Page
+categories: [fastpages, jupyter]
 ---
 
 # AP Physics Fast Page
